@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ERIC-KAIGUA
-- 🌱 I’m a Fullstack MERN developer...
+- 🌱 I’m a Fullstack Developer...
 - 📫 How to reach me via email:kaiguaeric@gmail.com
 
 <!---
