@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Charisma is my middle-name**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
