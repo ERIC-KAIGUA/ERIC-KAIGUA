@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eric-kaigua" alt="eric-kaigua" /></a> </p>
+
 
 - 🌱 I’m currently learning **React- Native**
 
