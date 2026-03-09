@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React- Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-repository-two.vercel.app/](https://portfolio-repository-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://updated-portfolio-website-one.vercel.app//](https://updated-portfolio-website-one.vercel.app/)
 
 - 📝 I regularly write articles on [... I don't]
 
