@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://updated-portfolio-website-one.vercel.app//](https://updated-portfolio-website-one.vercel.app/)
 
-- 📝 I regularly write articles on [... I don't]
+- 
 
 - 💬 Ask me about **React**
 
