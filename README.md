@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://updated-portfolio-website-one.vercel.app//](https://updated-portfolio-website-one.vercel.app/)
 
-- 
-
 - 💬 Ask me about **React**
 
 - ⚡ Fun fact **Charisma is my middle-name**
