@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React- Native**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [https://updated-portfolio-website-one.vercel.app//](https://updated-portfolio-website-one.vercel.app/)
 
