@@ -14,6 +14,7 @@
 
 
 <p align="center">
+  Languages and Tools:
 </p>
 <div style="
   display: grid;
