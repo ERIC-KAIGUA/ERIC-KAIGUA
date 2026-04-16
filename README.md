@@ -13,7 +13,7 @@
 - ⚡ Fun fact **Charisma is my middle-name**
 
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
