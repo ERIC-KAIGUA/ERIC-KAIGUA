@@ -13,9 +13,9 @@
 - ⚡ Fun fact **Charisma is my middle-name**
 
 
-<p align="center">
+<h2 align="center">
   Languages and Tools:
-</p>
+</h2>
 <div style="
   display: grid;
   grid-template-columns: repeat(2, 1fr);
