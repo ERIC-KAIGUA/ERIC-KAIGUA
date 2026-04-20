@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ERIC KAIGUA</h1>
+<h1 align="center">Hi 👋, I'm ERIC </h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
 
