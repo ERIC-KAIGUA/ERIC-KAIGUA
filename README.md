@@ -16,7 +16,7 @@
 <h2 align="center">
   Languages and Tools:
 </h2>
-<table align="center" row=3>
+<table align="center">
 <tr>
 <td align="center"><a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a></td>
 <td align="center"><a href="https://appwrite.io"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40"/></a></td>
