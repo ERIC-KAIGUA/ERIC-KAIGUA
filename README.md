@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React**
 
-- ⚡ Fun fact **Charisma is my middle-name**
+
 
 
 <h2 align="center">
